@@ -29,3 +29,8 @@ This repository contains code introduced in the following paper:
 - Run `python evaluate_chronological.py <experiment>` for chronological setting 
 
 
+## Related work 
+- Biaoyan Fang, Trevor Cohn, Timothy Baldwin, and Lea Frermann. 2023. Super-SCOTUS: A multi-sourced dataset for the Supreme Court of the US. In Proceedings of the Natural Legal Language Processing Workshop 2023, Singapore. Association for Computational Linguistics. [Github](https://github.com/biaoyanf/Super-SCOTUS)
+
+
+- Biaoyan Fang, Trevor Cohn, Timothy Baldwin, and Lea Frermann. 2023. It’s not only What You Say, It’s also Who It’s Said to: Counterfactual Analysis of Interactive Behavior in the Courtroom. In Proceedings of The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Nusa Dua, Bali. Association for Computational Linguistics. [Github](https://github.com/biaoyanf/SCOTUS-counterfactual)

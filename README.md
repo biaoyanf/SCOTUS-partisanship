@@ -4,7 +4,7 @@
 
 This repository contains code introduced in the following paper:
 
-- More than Votes? Voting and Language based Partisanship in the US Supreme Court 
+- [More than Votes? Voting and Language based Partisanship in the US Supreme Court](https://aclanthology.org/2023.findings-emnlp.306/)
 
 - Biaoyan Fang, Trevor Cohn, Timothy Baldwin, and Lea Frermann 
 
